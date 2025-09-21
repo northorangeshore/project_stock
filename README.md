@@ -1,1 +1,1 @@
-# project_stock
+# This is project for predicting stock market 
