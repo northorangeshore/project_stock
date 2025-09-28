@@ -1,1 +1,1 @@
-# This is project for predicting stock market 
+# This is project for predicting stock market clea
